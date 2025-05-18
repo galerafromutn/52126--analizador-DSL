@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug ANTLR grammar",
+      "type": "antlr-debug",
+      "request": "launch",
+      "input": "input.txt",
+      "grammar": "DSL.g4",
+      "printParseTree": true,
+      "visualParseTree": true
+    }
+  ]
+}
+

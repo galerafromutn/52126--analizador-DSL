@@ -1,0 +1,10 @@
+accion log {
+    notificar "Error durante el procesamiento";
+    moverArchivo a "C:/Archivos";
+    retornar resultado
+}
+
+
+
+
+

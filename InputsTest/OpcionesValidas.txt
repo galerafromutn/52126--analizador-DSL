@@ -1,0 +1,21 @@
+Opcion 1:
+
+accion analizarCorreo {
+  usarEscaneoProfundo;
+  notificar "Análisis completo";
+  retornar resultado;
+}
+
+accion moverAdjunto {
+  moverArchivo a "C:/descargas/adjunto.pdf";
+  contador = 1;
+}
+
+Opcion 2:
+
+accion procesarDatos {
+  usarEscaneoProfundo;
+  notificar "Procesamiento completado";
+  contador = 10;
+  retornar resultado;
+}

@@ -1,0 +1,12 @@
+Opcion 1:
+
+accion 123invalido {
+  usarEscaneoProfundo;
+}
+
+Opcion 2: 
+
+accion enviarCorreo {
+  notificar mensaje;
+  contador = diez;
+}
