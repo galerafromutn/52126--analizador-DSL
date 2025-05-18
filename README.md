@@ -35,7 +35,7 @@ Tambien podemos clonar el repositorio a traves de Cmd, PowerShell o una terminal
 1. git clone https://github.com/galerafromutn/52126--analizador-DSL.git
 2. cd 52126--analizador-DSL
 3. code .
-
+   
  **Descargando el zip**
 
 Usar el enlace para ir a la pagina de github donde se encuentra el repositorio, una vez alli encontrar la opcion marcada en verde que dice <code>. Al darle click seleccionar la opcion que dice " Descargar ZIP". Con el archivo.zip en tu computadora solo se requiere extraer el archivo y estara listo para su uso
