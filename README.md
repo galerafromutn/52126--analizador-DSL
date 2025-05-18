@@ -1,4 +1,4 @@
-# Analizador de Acciones Automatizadas -Legajo: 52126 
+# Analizador de Acciones Automatizadas -Galo Ezequiel Senra
 
 El proyecto otorgado solicitaba que a partir de una gramatica EBNF y por medio del uso de ANTLR4 y JavaScript, se implementara un analizador que realice el analisis lexico y sintactico de una gramatica dada, el arbol sintactico y que ademas realizara la traduccion del codigo fuente a Java Script
 
