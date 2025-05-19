@@ -42,7 +42,7 @@ Usar el enlace para ir a la pagina de github donde se encuentra el repositorio, 
 
 * ## 2. Colocar una entrada (input) que sea valida ##
 
-El repositorio cuenta con una ya incorporada que es la que se uso inicialmente, como extra se incluyeron 2 gramaticas adicionales que son funcionales y otras 2 que no funcionan para esta gramatica, estas gramaticas se encuentran dentro de la carpeta InputTests
+El repositorio cuenta con una ya incorporada que es la que se uso inicialmente, como extra se incluyeron 2 gramaticas adicionales que son funcionales y otras 2 que no funcionan para esta gramatica, estas gramaticas se encuentran dentro de la carpeta "InputsTests"
 
 **Para el optimo funcionamiento del programa, adjunto informacion a tener en cuenta a la hora de implementar un input:**
 
